@@ -1,3 +1,8 @@
+"""
+Given an array V of vote decisions, return the winner of the election.
+You are guaranteed to have a winner. Also, you can assume the winner have more than
+floor(n/2) votes in favor.
+"""
 def duplicate_zeros(arr):
     """Modifies arr in place duplicating all zeros while maitining the original length."""
     zeroes = 0
